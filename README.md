@@ -12,4 +12,5 @@ The data if for the past week per the API at [USGS GeoJSON Feed](http://earthqua
 ## Steps
 
 Step 1 was just to map the eatrthquakes for the past week. Can be found [HERE](leaflet-step-1/index.html)
+
 Step 2 was to map the eatrthquakes and tectonic plates. Can be found [HERE](leaflet-step-2/index.html)
